@@ -5,8 +5,11 @@
 district: 〜を地区に分ける の略称  
 http://eow.alc.co.jp/search?q=district  
 
+    dev: {
+      files: 'main.css',['main.scss']
+    },
     dist: {
-      files: 'main.css' : ['main.scss']
+      files: 'main.min.css' : ['main.scss']
     }
 
 ## dest  
