@@ -2,7 +2,7 @@
 
 ## dist
 
-district?? distinguish?? 区別する的な？？ 本番とdev と区別する意味？  
+district?? distinguish?? 区別する的な？？ 本番とdev と区別する構成がよく見かける  
 
     dev: {
       files: 'main.css',['main.scss']
