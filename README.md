@@ -2,8 +2,7 @@
 
 ## dist
 
-district: 〜を地区に分ける の略称  
-http://eow.alc.co.jp/search?q=district  
+district?? distinguish?? 区別する的な？？ 本番とdev と区別する意味？  
 
     dev: {
       files: 'main.css',['main.scss']
